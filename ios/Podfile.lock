@@ -1,0 +1,54 @@
+PODS:
+  - dyte_core_ios (0.0.1):
+    - DyteiOSCore (= 0.5.0)
+    - Flutter
+  - DyteiOSCore (0.5.0):
+    - DyteiOSSocketIO (~> 0.0.6)
+    - JitsiWebRTC
+  - DyteiOSSocketIO (0.0.6):
+    - Starscream (~> 4.0.4)
+  - Flutter (1.0.0)
+  - JitsiWebRTC (111.0.2)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.1.1):
+    - Flutter
+  - Starscream (4.0.6)
+
+DEPENDENCIES:
+  - dyte_core_ios (from `.symlinks/plugins/dyte_core_ios/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - DyteiOSCore
+    - DyteiOSSocketIO
+    - JitsiWebRTC
+    - Starscream
+
+EXTERNAL SOURCES:
+  dyte_core_ios:
+    :path: ".symlinks/plugins/dyte_core_ios/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  dyte_core_ios: e4b021ebf723a416ffd975d4b014ec5794c67256
+  DyteiOSCore: 2dddff083ca70711e2ce0d3704cbfcfa40360bc8
+  DyteiOSSocketIO: 524c9c3c2d5de76ed0a175da79eacdd19d73e1ed
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  JitsiWebRTC: 80f62908fcf2a1160e0d14b584323fb6e6be630b
+  path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
+  permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+
+PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+
+COCOAPODS: 1.12.1
