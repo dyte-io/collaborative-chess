@@ -1,4 +1,4 @@
-# chess_video_call
+# collaborative-chess
 
 A new Flutter project.
 
