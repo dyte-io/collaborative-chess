@@ -1,7 +1,6 @@
 import 'package:dyte_core/dyte_core.dart';
 import 'package:flutter/material.dart';
 import 'package:bishop/bishop.dart' as bishop;
-// import 'package:flutter_stateless_chessboard/flutter_stateless_chessboard.dart';
 import 'package:get/instance_manager.dart';
 import 'package:get/route_manager.dart';
 import 'package:get/state_manager.dart';
