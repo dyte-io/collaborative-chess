@@ -4,9 +4,9 @@ import 'package:http/http.dart';
 
 class HttpRequest {
   // organization ID
-  static const String _orgId = "cb89b31d-54fa-415a-be1e-977046753d43";
+  static const String _orgId = "---<ORG_ID>---";
   // API Key
-  static const String _apiKey = "8c12af6478823d3fb1d3";
+  static const String _apiKey = "---<API_KEY>---";
   //Format of token-> Basic base64.encode(utf8.encode(<ORG_ID>:<API_KEY>))
   static final String _token =
       "Basic ${base64.encode(utf8.encode('$_orgId:$_apiKey'))}";
