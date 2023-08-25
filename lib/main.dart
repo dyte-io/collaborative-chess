@@ -4,10 +4,9 @@ import 'package:chess_video_call/game_screen.dart';
 import 'package:chess_video_call/room_state.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/instance_manager.dart';
-import 'package:get/route_manager.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:permission_handler/permission_handler.dart';
+
 import './http_request.dart';
 
 void main() {
@@ -107,12 +106,12 @@ class _JoimRoomState extends State<JoimRoom> {
                                       if (token != null) {
                                         Get.put(RoomStateNotifier(
                                             nameController.text.trim(),
-                                            "token",
+                                            token,
                                             roomIdController.text.trim()));
                                         Get.to(const GameScreen());
                                       } else {
-                                              Get.snackbar( "Error","unable to get token");
-
+                                        Get.snackbar(
+                                            "Error", "unable to get token");
                                       }
                                     }
                                   },
@@ -186,8 +185,8 @@ class _JoimRoomState extends State<JoimRoom> {
                                             roomId!));
                                         Get.to(const GameScreen());
                                       } else {
-                                             Get.snackbar( "Error","Unable to get token");
-
+                                        Get.snackbar(
+                                            "Error", "Unable to get token");
                                       }
                                     }
                                   },
