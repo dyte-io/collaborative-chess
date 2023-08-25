@@ -75,20 +75,22 @@ class GameScreen extends StatelessWidget {
                     ),
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(17),
-                            child: VideoView(
-                              meetingParticipant:
-                                  roomStateNotifier.remotePeer.value,
-                            ),
+                            // Remote Peer video Tile
+                            // child: VideoView(
+                            //   meetingParticipant:
+                            //       roomStateNotifier.remotePeer.value,
+                            // ),
                           ),
                         ),
                         const SizedBox(
                           width: 10,
                         ),
-                        Text(
-                          roomStateNotifier.remotePeer.value!.name,
-                          style: const TextStyle(
-                              color: Colors.black, fontWeight: FontWeight.bold),
-                        ),
+                        // Remote Peer Name
+                        // Text(
+                        //   roomStateNotifier.remotePeer.value!.name,
+                        //   style: const TextStyle(
+                        //       color: Colors.black, fontWeight: FontWeight.bold),
+                        // ),
                         const Spacer()
                       ],
                     ),
@@ -180,19 +182,18 @@ class GameScreen extends StatelessWidget {
                     margin: const EdgeInsets.only(right: 10),
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(17),
-                      // Dyte Meeting Video View
-                      child: roomStateNotifier.roomJoin.value == false
-                          ? const SizedBox()
-                          : const VideoView(
-                              isSelfParticipant: true,
-                            ),
+                      // Dyte Meeting Video View of local peer
+                      // child: roomStateNotifier.roomJoin.value == false
+                      //     ? const SizedBox()
+                      //     : const VideoView(
+                      //         isSelfParticipant: true,
+                      //       ),
                     ),
                   ),
                 ),
               ],
             ),
           ),
-          if(roomStateNotifier.roomJoin.value)
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [

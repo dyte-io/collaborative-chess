@@ -51,10 +51,12 @@ class RoomStateNotifier extends GetxController
     dyteClient.value.init(meetingInfo);
   }
 
+  // Send message to remote peer
   sendMessage(String message) {
     dyteClient.value.chat.sendTextMessage(message);
   }
 
+// Toggle Video of local peer
   toggleVideo() {
     if (isVideoOn.value) {
       dyteClient.value.localUser.disableVideo();
@@ -64,6 +66,7 @@ class RoomStateNotifier extends GetxController
     isVideoOn.toggle();
   }
 
+// Toggle Audio of local peer
   toggleAudio() {
     if (isAudioOn.value) {
       dyteClient.value.localUser.disableAudio();
@@ -75,81 +78,37 @@ class RoomStateNotifier extends GetxController
 
   @override
   void onMeetingInitCompleted() {
-    dyteClient.value.localUser.setDisplayName(username.value);
-    dyteClient.value.joinRoom();
+  // TODO: onMeetingInitCompleted code here
   }
 
   @override
   void onMeetingRoomJoinCompleted() {
-    roomJoin.value = true;
+    // TODO: onMeetingRoomJoinCompleted code here
   }
 
   @override
   void onMeetingRoomLeaveCompleted() {
-    roomJoin.value = false;
-    dyteClient.value.removeMeetingRoomEventsListener(this);
-    dyteClient.value.removeParticipantEventsListener(this);
-    dyteClient.value.removeChatEventsListener(this);
-    Get.back();
-    Get.delete<RoomStateNotifier>();
+   // TODO: onMeetingRoomLeaveCompleted code here
   }
 
   @override
   void onParticipantJoin(DyteJoinedMeetingParticipant participant) {
-    if (participant.userId != dyteClient.value.localUser.userId) {
-      remotePeer.value = participant;
-      assignColour();
-    }
+    // TODO: onParticipantJoin code here
   }
 
   @override
   void onParticipantLeave(DyteJoinedMeetingParticipant participant) {
-    if (participant.userId != dyteClient.value.localUser.userId &&
-        remotePeer.value != null) {
-      remotePeer.value = null;
-      Get.defaultDialog(
-          barrierDismissible: false,
-          onWillPop: () async {
-            return false;
-          },
-          title: "Opponent Left this game.",
-          textConfirm: "Leave",
-          middleText: "",
-          confirmTextColor: Colors.white,
-          onConfirm: () {
-            dyteClient.value.leaveRoom();
-            Get.back();
-          });
-    }
+    // TODO: onParticipantLeave code here
   }
 
   @override
   void onNewChatMessage(DyteChatMessage message) {
-    if (message.userId == dyteClient.value.localUser.userId) {
-      return;
-    }
-    DyteTextMessage textMessage = message as DyteTextMessage;
-    final fen = textMessage.message;
-    game.value.loadFen(fen);
-    state.value = game.value.squaresState(playerColor.value);
-    if (game.value.checkmate) {
-      Get.defaultDialog(
-          barrierDismissible: false,
-          title: "You lose the game",
-          textConfirm: "Leave",
-          middleText: "",
-          confirmTextColor: Colors.white,
-          onConfirm: () {
-            dyteClient.value.leaveRoom();
-            Get.back();
-          });
-    }
-    localUserTurn.value = true;
+   // TODO: onNewChatMessage code here
   }
 
   @override
   void onMeetingInitFailed(Exception exception) {
-    print("onMeetingInitFailed $exception");
+    debugPrint("onMeetingInitFailed $exception");
   }
 
   @override
@@ -164,12 +123,12 @@ class RoomStateNotifier extends GetxController
 
   @override
   void onMeetingRoomJoinFailed(Exception exception) {
-    print("onMeetingRoomJoinFailed $exception");
+    debugPrint("onMeetingRoomJoinFailed $exception");
   }
 
   @override
   void onMeetingRoomJoinStarted() {
-    print("onMeetingRoomJoinStarted");
+    debugPrint("onMeetingRoomJoinStarted");
   }
 
   @override
