@@ -3,343 +3,343 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "badges",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/badges-3.1.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/badges-3.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "bishop",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/bishop-1.4.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/bishop-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/collection-1.17.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "dyte_core",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core-0.2.0+2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core-0.2.0+2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "dyte_core_android",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core_android-0.2.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core_android-0.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "dyte_core_ios",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core_ios-0.2.0+2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core_ios-0.2.0+2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "dyte_core_platform_interface",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core_platform_interface-0.2.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core_platform_interface-0.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/equatable-2.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/govindmaheshwari/Developer/flutter/packages/flutter",
+      "rootUri": "file:///Users/thisisamank/fvm/versions/stable/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/govindmaheshwari/Developer/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/thisisamank/fvm/versions/stable/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "focus_detector_v2",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/focus_detector_v2-3.1.0+1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/focus_detector_v2-3.1.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "get",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/get-4.6.5",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/get-4.6.5",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/google_fonts-4.0.5",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/google_fonts-4.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
+      "name": "js",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "lints",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/matcher-0.12.15",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.13"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider-2.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "permission_handler",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler-10.4.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler-10.4.3",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "permission_handler_android",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "permission_handler_apple",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "permission_handler_platform_interface",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-3.11.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-3.11.3",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "permission_handler_windows",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/platform-3.1.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/platform-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.5",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.5",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/govindmaheshwari/Developer/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/thisisamank/fvm/versions/stable/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/source_span-1.9.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.14"
     },
     {
       "name": "square_bishop",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/square_bishop-0.2.17",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/square_bishop-0.2.17",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "squares",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/squares-1.2.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/squares-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/test_api-0.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "visibility_detector",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/visibility_detector-0.4.0+2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/visibility_detector-0.4.0+2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "web",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
       "name": "win32",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/win32-5.0.6",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/win32-5.0.6",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/govindmaheshwari/.pub-cache/hosted/pub.dev/xdg_directories-1.0.2",
+      "rootUri": "file:///Users/thisisamank/.pub-cache/hosted/pub.dev/xdg_directories-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -350,7 +350,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-08-24T15:27:36.924929Z",
+  "generated": "2023-08-25T07:11:18.673482Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.0.6"
 }

@@ -1,13 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-dyte_core=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core-0.2.0+2/
-dyte_core_android=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core_android-0.2.1/
-dyte_core_ios=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/dyte_core_ios-0.2.0+2/
-path_provider=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider-2.1.0/
-path_provider_android=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
-path_provider_foundation=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
-path_provider_linux=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
-path_provider_windows=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/
-permission_handler=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler-10.4.3/
-permission_handler_android=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3/
-permission_handler_apple=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4/
-permission_handler_windows=/Users/govindmaheshwari/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3/
+dyte_core=/Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core-0.2.0+2/
+dyte_core_android=/Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core_android-0.2.1/
+dyte_core_ios=/Users/thisisamank/.pub-cache/hosted/pub.dev/dyte_core_ios-0.2.0+2/
+path_provider=/Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider-2.1.0/
+path_provider_android=/Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
+path_provider_foundation=/Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
+path_provider_linux=/Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
+path_provider_windows=/Users/thisisamank/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/
+permission_handler=/Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler-10.4.3/
+permission_handler_android=/Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3/
+permission_handler_apple=/Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4/
+permission_handler_windows=/Users/thisisamank/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3/
